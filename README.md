@@ -12,8 +12,10 @@ Thanks to the giphy API you can finally use this fantastic HTML tag inside your 
 #How to setup
 
 
--1 - Create an account on Giphy API to get your API Key. 
-1 - Include in your HTML files the library "memerize.js",
+-1 - Create an account on Giphy API to get your API Key
+
+1 - Include in your HTML files the library "memerize.js"
+
 2 - Create an HTML tag with the keywords "meme" and put inside keywords giving life to your memes, like this:
 ```
 <meme>Pepe the frog</meme>
@@ -27,6 +29,6 @@ $( document ).ready(function() {
   });
 ```
 
-4 - Test the page and see memes appears on your web page.
+4 - Test the page and see memes appears on your web page
 
-5- Have fun.
+5- Have fun
