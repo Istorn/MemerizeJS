@@ -25,7 +25,7 @@ Thanks to the giphy API you can finally use this fantastic HTML tag inside your 
 ```
 $( document ).ready(function() {
 
-    memerize("YOURAPIKEYGOESHERE");
+    memerize("YOUR_API_KEY_HERE");
   });
 ```
 
