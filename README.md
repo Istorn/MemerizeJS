@@ -18,7 +18,7 @@ Thanks to the giphy API you can finally use this fantastic HTML tag inside your 
 ```
 <meme>Pepe the frog</meme>
 ```
-3 - Under your body tag, add this portion of JS:
+3 - Under your body tag, add this portion of JS with your Giphy API key:
 
 ```
 $( document ).ready(function() {
