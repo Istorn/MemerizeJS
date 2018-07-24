@@ -16,7 +16,7 @@ Thanks to the giphy API you can finally use this fantastic HTML tag inside your 
 
 1 - Include in your HTML files the library "memerize.js"
 
-2 - Create an HTML tag with the keywords "meme" and put inside keywords giving life to your memes, like this:
+2 - Create an HTML tag with the keyword "meme" and put inside keywords giving life to your memes, like this:
 ```
 <meme>Pepe the frog</meme>
 ```
