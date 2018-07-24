@@ -32,3 +32,19 @@ $( document ).ready(function() {
 4 - Test the page and see memes appears on your web page
 
 5- Have fun
+
+## Options
+
+Available options:
+
+```
+<meme data-limit="1" data-offset="0" data-rating="G" data-lang="en">Pepe the frog</meme>
+```
+
+Default values:
+- **limit**: 1;
+- **offset**: 0;
+- **rating**: "R";
+- **lang**: "en";
+
+For more info: [GIPHY API Docs](https://developers.giphy.com/docs/)
